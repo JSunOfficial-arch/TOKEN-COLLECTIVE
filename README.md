@@ -82,8 +82,7 @@ This includes but is not limited to:
 Usage without explicit permission may constitute structural appropriation and breach of license.
 
 Citations are welcome.  
-For collaborations, derivative usage, or adaptations, please contact the author:  
-📨 jsun.token.collective [at] proton.me
+For collaborations, derivative usage, or adaptations, please contact the author:  JSunOfficial-arch@proton.me
 
 🧭 Structural Intent & Collaboration Note
 
