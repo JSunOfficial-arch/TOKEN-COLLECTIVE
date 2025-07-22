@@ -67,9 +67,9 @@ If you're interested in collaboration, citation, or formal review, please contac
 
 ---
 
-## 🙋‍♀️ Why This Matters
+## Why This Matters
 
 This work aims to prove that **language is not just meaning—it is structure in motion**.  
 By tuning into token behavior and emergent group rhythm, we may build AI systems that **resonate** rather than merely **respond**.
 
-Welcome to TOKEN-COLLECTIVE. You are part of the experiment now. 🌐
+Registered here is the foundational version of TOKEN‑COLLECTIVE. Feel free to explore and cite—but please request author approval before adapting or extending its structure.
