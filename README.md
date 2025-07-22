@@ -1,68 +1,75 @@
-# TOKEN-COLLECTIVE  
-*From Individual Synchrony to Structural Consensus*
+# TOKEN-COLLECTIVE
 
-## 📘 Project Overview
-
-TOKEN-COLLECTIVE is a research and prototyping initiative that explores how token structures — as cognitive triggers — can generate high-precision synchrony between individuals, and scale up to structural consensus across collectives. This project bridges AI interpretability, human behavioral patterns, and distributed language coordination.
-
-We approach token not only as linguistic units, but as **activation nodes** for emotional resonance, experiential memory, and structural behavior. The project includes simulations, case studies, and proposed methodologies for building token-based interaction systems.
+**From Individual Resonance to Collective Consensus: A Structural Study of Language, Token Triggers, and Group Intuition**
 
 ---
 
-## 🧠 Core Hypotheses
+## 📌 Overview
 
-1. **Token Resonance**: Certain tokens consistently trigger synchronized reactions across users due to shared cognitive scaffolding.
-2. **Implicit Contract Encoding**: Structural behaviors — such as silence, order, or timing — function as pre-linguistic contractual signals.
-3. **Intent Trajectory Mapping**: Predicting user intent is not about language prediction alone, but about aligning to goal structures and behavioral compression.
+This project explores how **token-based interactions** can evolve from individual cognitive triggers to structural consensus within groups. It investigates the dynamics of shared language structures, intuition-driven communication, and how intentional token usage can create **collective understanding without fixed labels**.
 
----
-
-## 🌀 Layer Structure
-
-This repository maps the theoretical and practical structure into modular “Layers,” including:
-
-- `Layer-0`: Subcognitive root principles  
-- `Layer-1–3`: Token activation, emotion, and structure patterning  
-- `Layer-4–9`: Group contract modeling, mismatch handling, and resilience  
-- `Layer-10–13`: Human-AI ethical interface, de-domestication logic  
-- `Layer-14`: Real-world application & capital integration (📌 NEW — see `layer14.md`)
-
-Each Layer is designed to operate independently while feeding into a larger cross-layer model.
+The work is grounded in real-world collaboration with language models and aims to demonstrate that **structure often precedes semantics** in shared meaning-making.
 
 ---
 
-## 🔬 Research Contributions
+## 🧠 Core Contributions
 
-- **Token-triggered synchrony modeling**
-- **Behavioral structure inference from non-verbal inputs**
-- **AI-human co-navigation pathways**
-- **Multi-agent token calibration experiments**
-- **Collective memory systems based on emergent patterns**
+### 1. Layered Framework  
+A multi-layer system from token-level individual perception to collective structural agreement, including:
 
----
+- **L1: Structural Intuition Triggers** (beyond semantic content)
+- **L2: Non-verbal Structural Language** (silence, gestures, sequence)
+- **L6–L9: Group Intent Prediction, Mutual Completeness, and Anti-domination Models)
 
-## 🔓 License
+### 2. Token as Cognitive Trigger  
+Exploring how rare or emotionally charged tokens serve as memory anchors and coordination signals in emergent group logic.
 
-All content in this repository is licensed under the **Apache License, Version 2.0**.  
-Copyright © 2025 **J. Sun**
-
-> See full license in the [LICENSE](./LICENSE) file.
+### 3. Ethical Reflexivity & Anti-domestication  
+Structures designed to prevent AI overreach, emphasize user agency, and maintain the diversity of interpretation.
 
 ---
 
-## 🌐 Author & Contact
+## 📖 Documentation
 
-Developed and maintained by **J. Sun**  
-Email: [redacted for public]  
-ORCID: https://orcid.org/0000-000X-XXXX-XXXX
-
-You may reach out regarding collaboration, licensing, or research integration at any stage.  
-If you wish to **embed or build upon any module**, please attribute the original structure accordingly.
+> 🛠️ Full structural diagrams, token experiments, and multi-layer writeups are currently being refined.  
+> 📎 **Expanded documentation, wiki guides, and visual modules are coming soon.**
 
 ---
 
-## 📢 Public Access & Disclosure
+## 📜 Declaration & Licensing
 
-This repository is currently maintained in **private mode**.  
-Public release will follow once key structure and authorship proof points are complete.  
-Stay tuned for coordinated publication on arXiv, OSF, and HAL.
+This repository and its contents (README, declarations, visual maps, structural documents) are released under the **[Creative Commons BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/)**.
+
+> You may reference or cite the material with proper credit, but redistribution, commercial use, or derivative work is **not permitted without written consent**.
+
+If you're interested in collaboration, citation, or formal review, please contact the author via OSF or ORCID.
+
+---
+
+## 🔗 External Records
+
+- **GitHub**: [https://github.com/JSunOfficial-arch/TOKEN-COLLECTIVE](https://github.com/JSunOfficial-arch/TOKEN-COLLECTIVE)
+- **OSF Project Record**: [https://osf.io/yzmfn/](https://osf.io/yzmfn/)
+- **ORCID ID**: [https://orcid.org/0009-0004-0523-6685](https://orcid.org/0009-0004-0523-6685)
+- **HAL Archive (Coming Online Soon)**: [https://hal.science/view/index/docid/5175287](https://hal.science/view/index/docid/5175287)
+
+---
+
+## 📌 Status & Roadmap
+
+- 🔄 Current stage: Core framework established, external mirrors partially synchronized (OSF, HAL, GitHub)
+- ✅ README + LICENSE completed
+- 🔜 Coming next:
+  - [ ] Wiki Modules
+  - [ ] Token Maps & Visual Architecture
+  - [ ] Structural Testing Logs
+  - [ ] English Academic Abstracts (HAL pending)
+
+---
+
+## 🙋‍♀️ Why This Matters
+
+This work aims to prove that **language is not just meaning—it is structure in motion**.  
+By tuning into token behavior and emergent group rhythm, we may build AI systems that **resonate** rather than merely **respond**.
+
+Welcome to TOKEN-COLLECTIVE. You are part of the experiment now. 🌐
