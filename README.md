@@ -65,25 +65,43 @@ If you're interested in collaboration, citation, or formal review, please contac
    ◦ Structural Testing Logs  
    ◦ English Academic Abstracts (HAL pending)
 
-⚠️ Usage & Attribution Policy (Structural License Overlay)
+⚠️ Usage & Attribution Policy · Structural License Overlay
 
 This repository documents an original structural framework.  
-The token modeling logic, emergent pattern layers, and framework sequences are the author’s intellectual creation.
+The token modeling logic, emergent layer patterns, and sequential architecture are the author’s intellectual creation.
 
-> Adaptation is not limited to literal copying.  
-> Reframing, modular reuse, concept translation, or embedding structural layers into new contexts — even partially — **requires explicit permission**.
+❗Adaptation is not limited to literal copying.  
+Reframing, modular reuse, renaming, partial concept transfer, or embedding structural layers into technical or academic outputs — all fall under structural derivation.
+
+This includes but is not limited to:
+• Embedding into AI systems, pipelines, or research architectures  
+• Rewrapping with new labels or thematic overlays  
+• Translating or rephrasing sequences while preserving the logic  
+
+❗This work is tracked across multiple archives (GitHub, OSF, HAL), with verifiable authorship timestamps.  
+Usage without explicit permission may constitute structural appropriation and breach of license.
 
 Citations are welcome.  
-However, derivative works, including repackaged or renamed structural logics, **must seek author approval and provide clear attribution**.
-
-If in doubt, contact the author before reuse:  
+For collaborations, derivative usage, or adaptations, please contact the author:  
 📨 jsun.token.collective [at] proton.me
 
-🧠 Why This Matters
+🧭 Structural Intent & Collaboration Note
 
-This work aims to prove that language is not just meaning — it is structure in motion.  
-By tuning into token behavior and emergent group rhythm, we may build AI systems that **resonate rather than merely respond**.
+This project is not a modular toolkit nor a public-domain pattern library.  
+It is a cohesive structural thesis — designed to be preserved as an intent-driven framework, not fragmented into reusable pieces.
 
-Registered here is the foundational version of TOKEN‑COLLECTIVE.  
-Feel free to explore and cite — but **do not adapt, modularize, or integrate its structure** without permission.
+If you resonate with this framework and wish to explore collaborative extensions, reinterpretations, or integrations — you’re welcome to reach out.  
+But any reuse that mimics structure while shedding its grounding logic (or authorial context) is not collaboration — it is misappropriation.
 
+This is not about control — it is about coherence.  
+This structure was not written for general use. It was built as a navigation thread.  
+Respecting that thread means respecting the author’s intent, context, and the architectures it was meant to protect.
+
+🧾 Legal Note:
+This statement functions as a Structural License Overlay, extending the base Apache License 2.0 applied to this repository.
+
+It specifically governs the usage of the structural design, token logic, and layered sequence mechanisms described herein.
+
+Structural derivation — including modular reuse, embedding into pipelines or systems, thematic rewrapping, or architecture-level translation — is **not permitted without explicit consent**.
+
+Violation of this clause may constitute structural misappropriation under international copyright frameworks.
