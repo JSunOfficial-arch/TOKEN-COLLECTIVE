@@ -55,21 +55,35 @@ If you're interested in collaboration, citation, or formal review, please contac
 
 ---
 
-## 📌 Status & Roadmap
+📌 Status & Roadmap
 
-- 🔄 Current stage: Core framework established, external mirrors partially synchronized (OSF, HAL, GitHub)
-- ✅ README + LICENSE completed
-- 🔜 Coming next:
-  - [ ] Wiki Modules
-  - [ ] Token Maps & Visual Architecture
-  - [ ] Structural Testing Logs
-  - [ ] English Academic Abstracts (HAL pending)
+• 🔄 Current stage: Core framework established, external mirrors partially synchronized (OSF, HAL, GitHub)  
+• ✅ README + LICENSE completed  
+• 🔜 Coming next:  
+   ◦ Wiki Modules  
+   ◦ Token Maps & Visual Architecture  
+   ◦ Structural Testing Logs  
+   ◦ English Academic Abstracts (HAL pending)
 
----
+⚠️ Usage & Attribution Policy (Structural License Overlay)
 
-## Why This Matters
+This repository documents an original structural framework.  
+The token modeling logic, emergent pattern layers, and framework sequences are the author’s intellectual creation.
 
-This work aims to prove that **language is not just meaning—it is structure in motion**.  
-By tuning into token behavior and emergent group rhythm, we may build AI systems that **resonate** rather than merely **respond**.
+> Adaptation is not limited to literal copying.  
+> Reframing, modular reuse, concept translation, or embedding structural layers into new contexts — even partially — **requires explicit permission**.
 
-Registered here is the foundational version of TOKEN‑COLLECTIVE. Feel free to explore and cite—but please request author approval before adapting or extending its structure.
+Citations are welcome.  
+However, derivative works, including repackaged or renamed structural logics, **must seek author approval and provide clear attribution**.
+
+If in doubt, contact the author before reuse:  
+📨 jsun.token.collective [at] proton.me
+
+🧠 Why This Matters
+
+This work aims to prove that language is not just meaning — it is structure in motion.  
+By tuning into token behavior and emergent group rhythm, we may build AI systems that **resonate rather than merely respond**.
+
+Registered here is the foundational version of TOKEN‑COLLECTIVE.  
+Feel free to explore and cite — but **do not adapt, modularize, or integrate its structure** without permission.
+
