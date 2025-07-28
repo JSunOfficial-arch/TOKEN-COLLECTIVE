@@ -27,6 +27,8 @@ Exploring how rare or emotionally charged tokens serve as memory anchors and coo
 ### 3. Ethical Reflexivity & Anti-domestication  
 Structures designed to prevent AI overreach, emphasize user agency, and maintain the diversity of interpretation.
 
+🌌 Star Echo Thread: Visual Anchors of the XingHui Map
+
 ---
 
 ## 📖 Documentation
