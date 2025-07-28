@@ -36,9 +36,7 @@ Structures designed to prevent AI overreach, emphasize user agency, and maintain
 
 ---
 
-## 📜 Declaration & Licensing
-
-This repository and its contents (README, declarations, visual maps, structural documents) are released under the **[Creative Commons BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/)**.
+## 📜 Declaration
 
 > You may reference or cite the material with proper credit, but redistribution, commercial use, or derivative work is **not permitted without written consent**.
 
