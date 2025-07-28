@@ -37,4 +37,9 @@ More on this can be found in the root `README.md`.
 ---
 
 ## 📁 File Index (for GitHub rendering)
+### Citation
+
+If you use or refer to the XingHui visual structures, please cite:
+
+J. Sun. *XingHui Visual Structure Maps*, Zenodo, 2025. DOI: [10.5281/zenodo.1652860](https://doi.org/10.5281/zenodo.1652860)
 
