@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.j.sun.autoUploader</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/env</string>
+        <string>python3</string>
+        <string>/Users/kelcysun/Library/Mobile Documents/com~apple~CloudDocs/Desktop/UploaderBox/auto_uploader.py</string>
+    </array>
+    <key>StartInterval</key>
+    <integer>60</integer>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>OSF_PASSWORD</key>
+        <string>ktstFbSb01U3IXO4byLZBGWoaHUsHmW8D70PxvJfrC9qSCmQI6ImSH3pv8hpPhyVH0ZkVp</string>
+    </dict>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StandardOutPath</key>
+    <string>/tmp/autoUploader.out</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/autoUploader.err</string>
+</dict>
+</plist>
